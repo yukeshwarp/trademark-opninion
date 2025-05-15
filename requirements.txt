@@ -1,0 +1,17 @@
+streamlit==1.31.1
+pandas==2.2.0
+PyMuPDF==1.23.8
+pydantic==2.6.1
+python-docx==1.0.1
+nltk
+fuzzywuzzy
+python-Levenshtein
+rapidfuzz==3.6.1
+sentence-transformers
+phonetics==1.0.5
+metaphone
+base64io
+python-dotenv==1.0.1
+openai==1.12.0
+asttokens
+opencv-python
