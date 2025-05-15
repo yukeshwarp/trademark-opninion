@@ -25,8 +25,8 @@ from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Pt
 
-nltk.download("wordnet")
-nltk.download("omw-1.4")  # Open Multilingual WordNet is also often needed
+nltk.download("wordnet", quiet=True)
+nltk.download("omw-1.4", quiet=True)  # Open Multilingual WordNet is also often needed
 
 
 class TrademarkDetails(BaseModel):
