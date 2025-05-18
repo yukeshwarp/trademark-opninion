@@ -18,3 +18,4 @@ opencv-python
 torch
 torchvision
 opencv-python
+opencv-python-headless
